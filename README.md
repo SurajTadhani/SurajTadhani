@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Suraj Tadhani</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer from India 🚀</h3>
+<table>
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm Suraj Tadhani</h1>
+      <h3>🚀 A Passionate MERN Stack Developer from India 🚀</h3>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=surajtadhani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+        <img src="https://img.shields.io/github/followers/surajtadhani?style=social" alt="GitHub Followers">
+        <img src="https://img.shields.io/badge/Code-React-blue?style=flat&logo=react" alt="Tech Stack">
+      </p>
+    </td>
+    <td>
+      <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400px" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500px" alt="Coding GIF">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajtadhani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/surajtadhani?style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/Code-React-blue?style=flat&logo=react" alt="Tech Stack">
-</p>
 
 ---
 
